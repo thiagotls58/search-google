@@ -4,6 +4,8 @@
 ## Instruções de uso
 1. Execute a api pelo visual studio
 2. Execute o app com o comando: ng s ou ng serve
+
+## Telas
  
 ### Tela da API
 ![Tela Inicial](/imagens/img1.png)
