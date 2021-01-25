@@ -10,7 +10,7 @@ export class SearchService {
 
     }
 
-    protected urlServiceV1: string = 'http://localhost:5000/api/SearchGoogle/';
+    protected urlServiceV1: string = 'https://localhost:44382/api/SearchGoogle/';
 
     realizarBusca(query: string) : Observable<SearchResult> {
         return this.http
